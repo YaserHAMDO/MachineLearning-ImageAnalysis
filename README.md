@@ -8,14 +8,15 @@
 *Matplotlib* for visualizing detections.<br>
 -**Process:** Detect faces, identify key landmarks, and draw bounding boxes and keypoints on images.
 
+
 <p align="left">
-  <img alt="f" src="https://github.com/user-attachments/assets/6b55b27a-dea4-489c-8486-e4d39eaa6dd2" width="60%">
+  <img alt="f" src="https://github.com/user-attachments/assets/bb7c4d76-a365-46b6-a948-deb26c4aeb65" width="60%">
 </p>
 &nbsp;
 &nbsp;
 
 <p align="left">
-  <img alt="f" src="https://github.com/user-attachments/assets/bb7c4d76-a365-46b6-a948-deb26c4aeb65" width="60%">
+  <img alt="f" src="https://github.com/user-attachments/assets/6b55b27a-dea4-489c-8486-e4d39eaa6dd2" width="60%">
 </p>
 &nbsp;
 &nbsp;
