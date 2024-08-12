@@ -50,7 +50,7 @@
 &nbsp;
 
 <p align="left">
-  <img alt="f" src="https://github.com/user-attachments/assets/5465dc7f-adf4-40ec-95fe-23898fe3a2ce" width="60%">
+  <img alt="f" src="https://github.com/user-attachments/assets/c87b3415-486d-4673-a101-60d6aca0dd14" width="60%">
 </p>
 &nbsp;
 &nbsp;
